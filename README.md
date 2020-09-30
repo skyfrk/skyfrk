@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Simon, a guy working towards becoming a [DevOps Engineer](https://roadmap.sh/devops) 🙂.
+I'm Simon, a guy working towards becoming a proper [DevOps Engineer](https://roadmap.sh/devops) 🙂.
 
 - Stuff I'm currently working with: C# .NET & Azure
 - Previous experiences:
